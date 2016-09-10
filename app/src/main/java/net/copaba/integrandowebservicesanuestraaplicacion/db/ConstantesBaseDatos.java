@@ -1,4 +1,4 @@
-package net.copaba.generandopersistenciaennuestraaplicacion.db;
+package net.copaba.integrandowebservicesanuestraaplicacion.db;
 
 /**
  * Created by Polo on 01/09/16.

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="net.copaba.generandopersistenciaennuestraaplicacion">
-
+    package="net.copaba.integrandowebservicesanuestraaplicacion">
+    <uses-permission android:name="android.permission.INTERNET"/>
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -16,23 +16,23 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="net.copaba.generandopersistenciaennuestraaplicacion.Activity2"
-            android:parentActivityName="net.copaba.generandopersistenciaennuestraaplicacion.MainActivity">
+            android:name=".Activity2"
+            android:parentActivityName=".MainActivity">
 
 
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="net.copaba.generandopersistenciaennuestraaplicacion.MainActivity" />
+                android:value=".MainActivity" />
         </activity>
-        <activity android:name="net.copaba.generandopersistenciaennuestraaplicacion.ActivityContacto" android:parentActivityName="net.copaba.poloth85.generandopersistenciaennuestraaplicacion.MainActivity">
+        <activity android:name=".ActivityContacto" android:parentActivityName="net.copaba.poloth85.integrandowebservicesanuestraaplicacion.MainActivity">
             <!-- Esto es para soporte 4.0 o menores -->
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="net.copaba.generandopersistenciaennuestraaplicacion.MainActivity" />
+                android:value=".MainActivity" />
         </activity>
-        <activity android:name="net.copaba.generandopersistenciaennuestraaplicacion.ActivityAbout" android:parentActivityName="net.copaba.poloth85.generandopersistenciaennuestraaplicacion.MainActivity"><meta-data
+        <activity android:name=".ActivityAbout" android:parentActivityName="net.copaba.poloth85.integrandowebservicesanuestraaplicacion.MainActivity"><meta-data
             android:name="android.support.PARENT_ACTIVITY"
-            android:value="net.copaba.generandopersistenciaennuestraaplicacion.MainActivity" /></activity>
+            android:value=".MainActivity" /></activity>
     </application>
 
 </manifest>

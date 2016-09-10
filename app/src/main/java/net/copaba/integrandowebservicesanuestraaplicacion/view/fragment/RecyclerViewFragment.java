@@ -1,4 +1,4 @@
-package net.copaba.generandopersistenciaennuestraaplicacion.view.fragment;
+package net.copaba.integrandowebservicesanuestraaplicacion.view.fragment;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -10,13 +10,12 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import net.copaba.generandopersistenciaennuestraaplicacion.Activity2;
-import net.copaba.generandopersistenciaennuestraaplicacion.R;
-import net.copaba.generandopersistenciaennuestraaplicacion.adapter.PetAdaptador;
-import net.copaba.generandopersistenciaennuestraaplicacion.db.ConstructorPets;
-import net.copaba.generandopersistenciaennuestraaplicacion.pojo.Pet;
-import net.copaba.generandopersistenciaennuestraaplicacion.presentador.IRecyclerViewFragmentPresenter;
-import net.copaba.generandopersistenciaennuestraaplicacion.presentador.RecyclerViewFragmentPresenter;
+import net.copaba.integrandowebservicesanuestraaplicacion.Activity2;
+import net.copaba.integrandowebservicesanuestraaplicacion.R;
+import net.copaba.integrandowebservicesanuestraaplicacion.adapter.PetAdaptador;
+import net.copaba.integrandowebservicesanuestraaplicacion.pojo.Pet;
+import net.copaba.integrandowebservicesanuestraaplicacion.presentador.IRecyclerViewFragmentPresenter;
+import net.copaba.integrandowebservicesanuestraaplicacion.presentador.RecyclerViewFragmentPresenter;
 
 import java.io.Serializable;
 import java.util.ArrayList;

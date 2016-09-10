@@ -1,8 +1,8 @@
-package net.copaba.generandopersistenciaennuestraaplicacion.view.fragment;
+package net.copaba.integrandowebservicesanuestraaplicacion.view.fragment;
 
 
-import net.copaba.generandopersistenciaennuestraaplicacion.adapter.PetAdaptador;
-import net.copaba.generandopersistenciaennuestraaplicacion.pojo.Pet;
+import net.copaba.integrandowebservicesanuestraaplicacion.adapter.PetAdaptador;
+import net.copaba.integrandowebservicesanuestraaplicacion.pojo.Pet;
 
 import java.util.ArrayList;
 

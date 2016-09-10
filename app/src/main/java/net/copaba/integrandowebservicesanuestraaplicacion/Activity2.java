@@ -1,4 +1,4 @@
-package net.copaba.generandopersistenciaennuestraaplicacion;
+package net.copaba.integrandowebservicesanuestraaplicacion;
 
 import android.support.v7.app.ActionBar;
 import android.support.v7.app.AppCompatActivity;
@@ -8,8 +8,8 @@ import android.support.v7.widget.RecyclerView;
 import android.support.v7.widget.Toolbar;
 import android.view.View;
 
-import net.copaba.generandopersistenciaennuestraaplicacion.adapter.PetAdaptador;
-import net.copaba.generandopersistenciaennuestraaplicacion.pojo.Pet;
+import net.copaba.integrandowebservicesanuestraaplicacion.adapter.PetAdaptador;
+import net.copaba.integrandowebservicesanuestraaplicacion.pojo.Pet;
 
 import java.util.ArrayList;
 

@@ -1,4 +1,4 @@
-package net.copaba.generandopersistenciaennuestraaplicacion.view.fragment;
+package net.copaba.integrandowebservicesanuestraaplicacion.view.fragment;
 
 
 import android.os.Bundle;
@@ -10,9 +10,9 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-import net.copaba.generandopersistenciaennuestraaplicacion.R;
-import net.copaba.generandopersistenciaennuestraaplicacion.adapter.PerfilAdaptador;
-import net.copaba.generandopersistenciaennuestraaplicacion.pojo.Pet;
+import net.copaba.integrandowebservicesanuestraaplicacion.R;
+import net.copaba.integrandowebservicesanuestraaplicacion.adapter.PerfilAdaptador;
+import net.copaba.integrandowebservicesanuestraaplicacion.pojo.Pet;
 
 import java.util.ArrayList;
 

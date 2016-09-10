@@ -1,4 +1,4 @@
-package net.copaba.generandopersistenciaennuestraaplicacion.pojo;
+package net.copaba.integrandowebservicesanuestraaplicacion.pojo;
 
 import java.io.Serializable;
 

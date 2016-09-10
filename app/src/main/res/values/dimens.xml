@@ -10,5 +10,9 @@
     <dimen name="fab_margin">16dp</dimen>
     <dimen name="msg">150dp</dimen>
     <dimen name="image">150dp</dimen>
+    <dimen name="card_view">170dp</dimen>
+    <dimen name="image_cardview">120dp</dimen>
+    <dimen name="text_likes_size">17sp</dimen>
+    <dimen name="image_bone">27dp</dimen>
 
 </resources>

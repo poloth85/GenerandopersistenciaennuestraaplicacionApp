@@ -1,4 +1,4 @@
-package net.copaba.generandopersistenciaennuestraaplicacion.adapter;
+package net.copaba.integrandowebservicesanuestraaplicacion.adapter;
 
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;

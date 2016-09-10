@@ -1,4 +1,4 @@
-package net.copaba.generandopersistenciaennuestraaplicacion.adapter;
+package net.copaba.integrandowebservicesanuestraaplicacion.adapter;
 
 import android.app.Activity;
 import android.support.v7.widget.RecyclerView;
@@ -10,9 +10,9 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import net.copaba.generandopersistenciaennuestraaplicacion.R;
-import net.copaba.generandopersistenciaennuestraaplicacion.db.ConstructorPets;
-import net.copaba.generandopersistenciaennuestraaplicacion.pojo.Pet;
+import net.copaba.integrandowebservicesanuestraaplicacion.R;
+import net.copaba.integrandowebservicesanuestraaplicacion.db.ConstructorPets;
+import net.copaba.integrandowebservicesanuestraaplicacion.pojo.Pet;
 
 import java.util.ArrayList;
 

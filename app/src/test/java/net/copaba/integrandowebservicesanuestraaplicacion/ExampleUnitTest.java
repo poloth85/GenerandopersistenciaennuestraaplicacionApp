@@ -1,4 +1,4 @@
-package net.copaba.generandopersistenciaennuestraaplicacion;
+package net.copaba.integrandowebservicesanuestraaplicacion;
 
 import org.junit.Test;
 

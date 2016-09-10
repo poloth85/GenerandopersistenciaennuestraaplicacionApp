@@ -1,4 +1,4 @@
-package net.copaba.generandopersistenciaennuestraaplicacion;
+package net.copaba.integrandowebservicesanuestraaplicacion;
 
 import android.support.v7.app.ActionBar;
 import android.support.v7.app.AppCompatActivity;

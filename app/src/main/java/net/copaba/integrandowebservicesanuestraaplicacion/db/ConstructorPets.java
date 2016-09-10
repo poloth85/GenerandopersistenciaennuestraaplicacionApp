@@ -1,10 +1,10 @@
-package net.copaba.generandopersistenciaennuestraaplicacion.db;
+package net.copaba.integrandowebservicesanuestraaplicacion.db;
 
 import android.content.ContentValues;
 import android.content.Context;
 
-import net.copaba.generandopersistenciaennuestraaplicacion.R;
-import net.copaba.generandopersistenciaennuestraaplicacion.pojo.Pet;
+import net.copaba.integrandowebservicesanuestraaplicacion.R;
+import net.copaba.integrandowebservicesanuestraaplicacion.pojo.Pet;
 
 import java.util.ArrayList;
 

@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     android:id="@+id/layout1"
     android:background="@drawable/puppy"
-    tools:context="net.copaba.generandopersistenciaennuestraaplicacion.ActivityContacto"
+    tools:context=".ActivityContacto"
     android:orientation="vertical">
     <include android:id="@+id/MiActionBar" layout="@layout/actionbar"></include>
     <LinearLayout

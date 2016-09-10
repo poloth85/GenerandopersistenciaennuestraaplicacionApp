@@ -1,4 +1,4 @@
-package net.copaba.generandopersistenciaennuestraaplicacion;
+package net.copaba.integrandowebservicesanuestraaplicacion;
 
 import android.os.AsyncTask;
 import android.support.design.widget.Snackbar;
@@ -10,7 +10,7 @@ import android.support.v7.widget.Toolbar;
 import android.view.View;
 import android.widget.Button;
 
-import net.copaba.generandopersistenciaennuestraaplicacion.pojo.Mail;
+import net.copaba.integrandowebservicesanuestraaplicacion.pojo.Mail;
 
 import javax.mail.AuthenticationFailedException;
 

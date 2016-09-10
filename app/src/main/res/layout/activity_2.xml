@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
 
-    tools:context="net.copaba.generandopersistenciaennuestraaplicacion.Activity2">
+    tools:context=".Activity2">
     <include android:id="@+id/MiActionBar" layout="@layout/actionbar"></include>
 
 
